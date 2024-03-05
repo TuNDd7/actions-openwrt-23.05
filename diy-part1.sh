@@ -15,5 +15,5 @@
 
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-echo 'src-git v2raya https://github.com/v2rayA/v2rayA' >>feeds.conf.default
+echo 'src-git v2raya https://github.com/v2rayA/v2raya-openwrt.git' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
